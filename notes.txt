@@ -1,0 +1,11 @@
+sales_index
+Out[56]: Index(['Yes', 'No'], dtype='object')
+
+shelveloc_index
+Out[59]: Index(['Bad', 'Good', 'Medium'], dtype='object')
+
+urban_index
+Out[61]: Index(['Yes', 'No'], dtype='object')
+
+us_index
+Out[63]: Index(['Yes', 'No'], dtype='object')
