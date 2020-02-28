@@ -5,8 +5,8 @@ from flask_wtf import FlaskForm
 from wtforms import SubmitField, TextAreaField, validators, StringField, IntegerField, FloatField, SelectField
 from wtforms.fields.html5 import EmailField
 from flask_wtf.file import FileField, FileRequired, FileAllowed
-from io import BytesIO
-from base64 import b64encode
+#from io import BytesIO
+#from base64 import b64encode
 import pandas as pd
 #pd.set_option('display.max_colwidth', -1)
 
